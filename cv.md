@@ -13,7 +13,7 @@
 ****
 ### About me
 
-
+I graduated from university a year ago with a degree in computer security. But I went to work as an SEO specialist. I work a lot with websites internally, often making small websites from scratch, as the job requires it. I want to try and get back into programming and learn frontend development.
 
 ****
 ### Skills
